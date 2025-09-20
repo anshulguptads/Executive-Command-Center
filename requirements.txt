@@ -1,6 +1,6 @@
 streamlit
 pandas
 plotly
-faker
 statsmodels
 scikit-learn
+faker
